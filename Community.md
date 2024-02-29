@@ -909,3 +909,22 @@
       <td>SRCC</td>
   </tr>
 </table>
+
+<table>
+      <tr>
+        <td>Name</td>
+        <td>Anshuman Pandey</td>
+      </tr>
+      <tr>
+        <td>GitHub</td>
+        <td>https://github.com/anshuman182005</td>
+      </tr>
+      <tr>
+        <td>LinkedIn</td>
+        <td>https://www.linkedin.com/in/anshumanpandey182005/</td>
+      </tr>
+      <tr>
+        <td>College</td>
+        <td>Maharaja Surajmal Institute</td>
+      </tr>
+    </table>
